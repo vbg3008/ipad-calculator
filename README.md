@@ -8,8 +8,10 @@ A full-stack math solver app inspired by iPad's calculator, allowing users to ha
 - **Backend**: Express server integrating Gemini AI to analyze base64 images of math expressions, providing step-by-step solutions in JSON.
 - **Key Integration**: Canvas drawings are captured as PNGs and sent to the backend via Axios for multimodal AI processing.
 
-![Demo Screenshot](https://via.placeholder.com/800x600?text=iPad+Calculator+Demo)  
-*(Add a real screenshot here for better visuals)*
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://ipad-calculator-lbw1otfp3-vbg3008s-projects.vercel.app/)
+
+![Demo Screenshot](https://raw.githubusercontent.com/vbg3008/ipad-calculator/refs/heads/main/image.png)  
 
 ## Features
 
@@ -26,7 +28,7 @@ A full-stack math solver app inspired by iPad's calculator, allowing users to ha
 |----------|--------------|
 | **Backend** | Node.js, Express, Google Generative AI (Gemini), dotenv, CORS, Helmet, Morgan |
 | **Frontend** | React 19, Vite, Tailwind CSS 4, Axios, Canvas API |
-| **Build Tools** | npm/yarn, PostCSS, Autoprefixer |
+| **Build Tools** | npm |
 | **Other** | JavaScript (ES6+), JSON for data exchange |
 
 ## Prerequisites
