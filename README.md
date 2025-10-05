@@ -9,7 +9,7 @@ A full-stack math solver app inspired by iPad's calculator, allowing users to ha
 - **Key Integration**: Canvas drawings are captured as PNGs and sent to the backend via Axios for multimodal AI processing.
 
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://ipad-calculator-lbw1otfp3-vbg3008s-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://ipad-calculator-beryl.vercel.app)
 
 ![Demo Screenshot](https://raw.githubusercontent.com/vbg3008/ipad-calculator/refs/heads/main/image.png)  
 
