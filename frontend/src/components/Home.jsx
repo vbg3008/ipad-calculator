@@ -125,7 +125,7 @@ const Home = () => {
         </button>
 
         {/* Color Selector */}
-        <div className="flex overflow-x-auto gap-2 justify-center py-1 border border-red-500 hide-scrollbar">
+        <div className="flex overflow-x-auto gap-2 justify-center py-1 hide-scrollbar">
           {Colors.map((color) => (
             <div
               key={color.name}
